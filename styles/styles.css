@@ -1,0 +1,372 @@
+.body{
+    
+    /* Desktop - 1 */
+
+
+position: relative;
+width: 1200px;
+height: 2236px;
+
+background: #FFFFFF;
+}    
+        .p-1{
+            /* LIFESTYLE */
+        
+        
+        position: absolute;
+        width: 71px;
+        height: 19px;
+        left: 315px;
+        top: 71px;
+        
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        
+        color: #03A9F4;
+        
+        }
+        
+        .p-2{
+            /* PHOTODIARY */
+        
+        
+        position: absolute;
+        width: 89px;
+        height: 19px;
+        left: 485px;
+        top: 71px;
+        
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        
+        color: #7D7D7D;
+        
+        }
+        
+        .p-3{
+            /* MUSIC */
+        
+        
+        position: absolute;
+        width: 44px;
+        height: 19px;
+        left: 674px;
+        top: 71px;
+        
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        
+        color: #7D7D7D;
+        
+        }
+        
+        .p-4{
+            /* TRAVEL */
+        
+        
+        position: absolute;
+        width: 52px;
+        height: 19px;
+        left: 818px;
+        top: 71px;
+        
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        
+        color: #7D7D7D;
+        
+        }
+        
+        .f1{
+            /* card 1 */
+        
+        
+        position: absolute;
+        width: 420px;
+        height: 546px;
+        left: 148px;
+        top: 182px;
+        
+        }
+        
+        .f2{
+            /* card 2 */
+        
+        
+        position: absolute;
+        width: 420px;
+        height: 546px;
+        left: 633px;
+        top: 182px;
+        
+        }
+        
+        .f3{
+            /* card 3 */
+        
+        
+        position: absolute;
+        width: 421px;
+        height: 516px;
+        left: 147px;
+        top: 858px;
+        
+        }
+        
+        .f4{
+            /* card 4 */
+        
+        
+        position: absolute;
+        width: 420px;
+        height: 516px;
+        left: 633px;
+        top: 858px;
+        
+        }
+        
+        .f5{
+            /* card 5 */
+        
+        
+        position: absolute;
+        width: 420px;
+        height: 516px;
+        left: 149px;
+        top: 1500px;
+        
+        }
+        
+        .f6{
+            /* card 6 */
+        
+        
+        position: absolute;
+        width: 420px;
+        height: 516px;
+        left: 632px;
+        top: 1504px;
+        
+        }
+        
+        .b1{
+            /* button */
+        
+        
+        position: absolute;
+        width: 165px;
+        height: 60px;
+        left: 506px;
+        top: 2110px;
+        
+        }
+        
+        
+    
+    
+    li{
+        color: #FFFFFF;
+    }
+    
+    .p-1{
+        /* LIFESTYLE */
+    
+    
+    position: absolute;
+    width: 71px;
+    height: 19px;
+    left: 315px;
+    top: 71px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #03A9F4;
+    
+    }
+    
+    .p-2{
+        /* PHOTODIARY */
+    
+    
+    position: absolute;
+    width: 89px;
+    height: 19px;
+    left: 485px;
+    top: 71px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #7D7D7D;
+    
+    }
+    
+    .p-3{
+        /* MUSIC */
+    
+    
+    position: absolute;
+    width: 44px;
+    height: 19px;
+    left: 674px;
+    top: 71px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #7D7D7D;
+    
+    }
+    
+    .p-4{
+        /* TRAVEL */
+    
+    
+    position: absolute;
+    width: 52px;
+    height: 19px;
+    left: 818px;
+    top: 71px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #7D7D7D;
+    
+    }
+    
+    .f1{
+        /* card 1 */
+    
+    
+    position: absolute;
+    width: 420px;
+    height: 546px;
+    left: 148px;
+    top: 182px;
+    
+    }
+    
+    .f2{
+        /* card 2 */
+    
+    
+    position: absolute;
+    width: 420px;
+    height: 546px;
+    left: 633px;
+    top: 182px;
+    
+    }
+    
+    .f3{
+        /* card 3 */
+    
+    
+    position: absolute;
+    width: 421px;
+    height: 516px;
+    left: 147px;
+    top: 858px;
+    
+    }
+    
+    .f4{
+        /* card 4 */
+    
+    
+    position: absolute;
+    width: 420px;
+    height: 516px;
+    left: 633px;
+    top: 858px;
+    
+    }
+    
+    .f5{
+        /* card 5 */
+    
+    
+    position: absolute;
+    width: 420px;
+    height: 516px;
+    left: 149px;
+    top: 1500px;
+    
+    }
+    
+    .f6{
+        /* card 6 */
+    
+    
+    position: absolute;
+    width: 420px;
+    height: 516px;
+    left: 632px;
+    top: 1504px;
+    
+    }
+    
+    .b1{
+        /* button */
+    
+    
+    position: absolute;
+    width: 165px;
+    height: 60px;
+    left: 555px;
+    top: 2110px;
+    color:#7D7D7D ;
+    
+    }
+    
+    
+    
+    
+    
+.div{
+    position: absolute;
+    left: 147px;
+    
+}
